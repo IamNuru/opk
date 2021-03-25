@@ -105,6 +105,26 @@ body{
 }
 
 
+/**Vacancy */
+.vacancy-title{
+    font-weight: 700;
+    font-size: 27px;
+}
+.vacancy-sub-title{
+    text-decoration: underline;
+    font-family: "Abhaya Libre", serif, charter, Georgia, Cambria,
+        "Times New Roman", Times, serif;
+        font-size: 22px;
+        font-weight: 600;
+}
+.wrap-vacancy ul > li{
+    list-style-type:square;
+    font-family: "Abhaya Libre", serif, charter, Georgia, Cambria,
+        "Times New Roman", Times, serif;
+        font-size: 20px;
+        padding: 2px;
+}
+
 
 /**FOOTER**/
 .footer{
