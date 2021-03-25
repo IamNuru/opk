@@ -116,6 +116,7 @@ body{
         "Times New Roman", Times, serif;
         font-size: 22px;
         font-weight: 600;
+        text-transform: uppercase;
 }
 .wrap-vacancy ul > li{
     list-style-type:square;
