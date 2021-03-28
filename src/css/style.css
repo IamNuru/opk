@@ -161,12 +161,12 @@ body{
         text-transform: uppercase;
 }
 
-/**Testimonials **/
+/**Testimonials 
 body {
     background: linear-gradient(120deg, #E91E63 0%, #D81B60 100%)
-}
+}**/
 
-.container {
+.container-testi {
     background-color: white;
     text-align: center;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.58);
@@ -222,7 +222,7 @@ body {
     bottom: 8px
 }
 
-.row {
+.row-testi {
     padding-bottom: 53px
 }
 
@@ -242,7 +242,7 @@ body {
     bottom: 20px
 }
 
-.header {
+.header-testi {
     padding-top: 35px;
     padding-bottom: 50px
 }
