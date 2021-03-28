@@ -12,6 +12,7 @@ body{
 }
 .mySlides{
     display:none;
+    transition: 5s all;
 }
 .short-description{
     margin-top: 130px;
@@ -151,6 +152,14 @@ body{
     font-size: 18px;
 }
 
+
+.opk-title{
+    font-family: "Abhaya Libre", serif, charter, Georgia, Cambria,
+        "Times New Roman", Times, serif;
+        font-weight: 600 !important;
+        font-size: 22.5px !important;
+        text-transform: uppercase;
+}
 
 
 /**MEDIA QUERIES**/
